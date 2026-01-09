@@ -1,6 +1,16 @@
-node_modules/
+# Playwright reports & artifacts
+html-report/
+playwright-report/
 test-results/
+logs/
+har/
 allure-results/
 allure-report/
 Downloads/
-html-report.zip/
+tests/**/visualComparision.test.ts-snapshots/
+
+# Node
+node_modules/
+
+
+

@@ -6,8 +6,9 @@ const ENV = process.env.npm_config_ENV;
 
 if (!ENV || ![`qa`, `dev`, `qaApi`, `devApi`].includes(ENV)) {
   console.log(`Please provide a correct environment value after command like "--ENV=qa|dev|qaApi|devApi"`);
-  process.exit();
-}
+throw new Error(
+  `Invalid ENV value. Use --ENV=qa|dev|qaApi|devApi`
+);}
 
 const reportConfig: OrtoniReportConfig = {
   base64Image: true,
@@ -29,7 +30,7 @@ const config: PlaywrightTestConfig = {
   timeout: 120000,
 
   //number of retries if test case fails
-  retries: 0,
+retries: process.env.CI ? 1 : 0,
 
   //Reporters
   reporter: [[`./CustomReporterConfig.ts`], [`allure-playwright`], [`html`, { outputFolder: 'html-report', open: 'never' }],['ortoni-report', reportConfig]],
