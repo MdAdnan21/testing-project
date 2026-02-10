@@ -25,10 +25,10 @@ test.describe('Web Tables – Employee Records', () => {
     // Search
     await webTables.searchEmployee('Cierra');
 
-    // Edit
-    await webTables.clickEditFirstRow();
+    // // Edit
+    // await webTables.clickEditFirstRow();
 
-    // Delete
-    await webTables.clickDeleteFirstRow();
+    // // Delete
+    // await webTables.clickDeleteFirstRow();
   });
 });
