@@ -73,7 +73,4 @@ export class TabsPage {
     expect(contentBefore?.height).toBe(contentAfter?.height);
   }
 
-  async verifyActiveTabStyle(tab: Locator) {
-    await expect(tab).toHaveClass(/active|selected|text-primary/);
-  }
 }
