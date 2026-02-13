@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test",
-    "test:single": "npx playwright test Login.test.ts --project=Chrome",
+"test:single": "npx playwright test tests/StudentRegistration.test.ts --project=Chrome",
     "test:parallel": "npx playwright test --grep @Smoke --project=Chrome",
     "test:serial": "npx playwright test --grep @Smoke --workers=1 --project=Chrome",
     "test:ui": "npx playwright test --grep @Smoke --ui",
@@ -32,6 +32,7 @@
     "@typescript-eslint/parser": "^8.3.0",
     "allure-playwright": "^3.0.1",
     "crypto-js": "^4.2.0",
+    "dotenv": "^17.2.3",
     "eslint": "^8.57.0",
     "eslint-plugin-import": "^2.29.1",
     "exceljs": "^4.4.0",
