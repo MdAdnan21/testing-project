@@ -32,3 +32,574 @@
 {"level":"info","message":"Test Case Completed : Verify the text contents of PDF file. Status : passed"}
 {"level":"info","message":"Test Case Started : Verify Widgets Page"}
 {"level":"info","message":"Test Case Completed : Verify Widgets Page Status : passed"}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select Value"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select Value Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select One"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select One Status : failed"}
+{"level":"info","message":"Test Case Started : Old-style native HTML select"}
+{"level":"info","message":"Test Case Completed : Old-style native HTML select Status : failed"}
+{"level":"info","message":"Test Case Started : Custom multi-select dropdown"}
+{"level":"info","message":"Test Case Completed : Custom multi-select dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Standard multi-select using Ctrl / Cmd"}
+{"level":"info","message":"Test Case Completed : Standard multi-select using Ctrl / Cmd Status : failed"}
+{"level":"info","message":"Test Case Started : All dropdowns are clickable without errors"}
+{"level":"info","message":"Test Case Completed : All dropdowns are clickable without errors Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select Value"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select Value Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select One"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select One Status : failed"}
+{"level":"info","message":"Test Case Started : Old-style native HTML select"}
+{"level":"info","message":"Test Case Completed : Old-style native HTML select Status : failed"}
+{"level":"info","message":"Test Case Started : Custom multi-select dropdown"}
+{"level":"info","message":"Test Case Completed : Custom multi-select dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Standard multi-select using Ctrl / Cmd"}
+{"level":"info","message":"Test Case Completed : Standard multi-select using Ctrl / Cmd Status : failed"}
+{"level":"info","message":"Test Case Started : All dropdowns are clickable without errors"}
+{"level":"info","message":"Test Case Completed : All dropdowns are clickable without errors Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select Value"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select Value Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select One"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select One Status : failed"}
+{"level":"info","message":"Test Case Started : Old-style native HTML select"}
+{"level":"info","message":"Test Case Completed : Old-style native HTML select Status : failed"}
+{"level":"info","message":"Test Case Started : Custom multi-select dropdown"}
+{"level":"info","message":"Test Case Completed : Custom multi-select dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Standard multi-select using Ctrl / Cmd"}
+{"level":"info","message":"Test Case Completed : Standard multi-select using Ctrl / Cmd Status : failed"}
+{"level":"info","message":"Test Case Started : All dropdowns are clickable without errors"}
+{"level":"info","message":"Test Case Completed : All dropdowns are clickable without errors Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select Value"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select Value Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select One"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select One Status : failed"}
+{"level":"info","message":"Test Case Started : Old-style native HTML select"}
+{"level":"info","message":"Test Case Completed : Old-style native HTML select Status : failed"}
+{"level":"info","message":"Test Case Started : Custom multi-select dropdown"}
+{"level":"info","message":"Test Case Completed : Custom multi-select dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Standard multi-select using Ctrl / Cmd"}
+{"level":"info","message":"Test Case Completed : Standard multi-select using Ctrl / Cmd Status : failed"}
+{"level":"info","message":"Test Case Started : All dropdowns are clickable without errors"}
+{"level":"info","message":"Test Case Completed : All dropdowns are clickable without errors Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select Value"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select Value Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select One"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select One Status : failed"}
+{"level":"info","message":"Test Case Started : Old-style native HTML select"}
+{"level":"info","message":"Test Case Completed : Old-style native HTML select Status : failed"}
+{"level":"info","message":"Test Case Started : Custom multi-select dropdown"}
+{"level":"info","message":"Test Case Completed : Custom multi-select dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Standard multi-select using Ctrl / Cmd"}
+{"level":"info","message":"Test Case Completed : Standard multi-select using Ctrl / Cmd Status : failed"}
+{"level":"info","message":"Test Case Started : All dropdowns are clickable without errors"}
+{"level":"info","message":"Test Case Completed : All dropdowns are clickable without errors Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select Value"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select Value Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select One"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select One Status : failed"}
+{"level":"info","message":"Test Case Started : Old-style native HTML select"}
+{"level":"info","message":"Test Case Completed : Old-style native HTML select Status : failed"}
+{"level":"info","message":"Test Case Started : Custom multi-select dropdown"}
+{"level":"info","message":"Test Case Completed : Custom multi-select dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Standard multi-select using Ctrl / Cmd"}
+{"level":"info","message":"Test Case Completed : Standard multi-select using Ctrl / Cmd Status : failed"}
+{"level":"info","message":"Test Case Started : All dropdowns are clickable without errors"}
+{"level":"info","message":"Test Case Completed : All dropdowns are clickable without errors Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select Value"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select Value Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select One"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select One Status : failed"}
+{"level":"info","message":"Test Case Started : Old-style native HTML select"}
+{"level":"info","message":"Test Case Completed : Old-style native HTML select Status : failed"}
+{"level":"info","message":"Test Case Started : Custom multi-select dropdown"}
+{"level":"info","message":"Test Case Completed : Custom multi-select dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Standard multi-select using Ctrl / Cmd"}
+{"level":"info","message":"Test Case Completed : Standard multi-select using Ctrl / Cmd Status : failed"}
+{"level":"info","message":"Test Case Started : All dropdowns are clickable without errors"}
+{"level":"info","message":"Test Case Completed : All dropdowns are clickable without errors Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select Value"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select Value Status : failed"}
+{"level":"info","message":"Test Case Started : Single-select dropdown - Select One"}
+{"level":"info","message":"Test Case Completed : Single-select dropdown - Select One Status : failed"}
+{"level":"info","message":"Test Case Started : Old-style native HTML select"}
+{"level":"info","message":"Test Case Completed : Old-style native HTML select Status : failed"}
+{"level":"info","message":"Test Case Started : Custom multi-select dropdown"}
+{"level":"info","message":"Test Case Completed : Custom multi-select dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Standard multi-select using Ctrl / Cmd"}
+{"level":"info","message":"Test Case Completed : Standard multi-select using Ctrl / Cmd Status : failed"}
+{"level":"info","message":"Test Case Started : All dropdowns are clickable without errors"}
+{"level":"info","message":"Test Case Completed : All dropdowns are clickable without errors Status : failed"}
+{"level":"info","message":"Test Case Started : User can select one option from single-select dropdowns"}
+{"level":"info","message":"Test Case Completed : User can select one option from single-select dropdowns Status : failed"}
+{"level":"info","message":"Test Case Started : Old-style select works as a native HTML dropdown"}
+{"level":"info","message":"Test Case Completed : Old-style select works as a native HTML dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Multi-select dropdown allows multiple selections"}
+{"level":"info","message":"Test Case Completed : Multi-select dropdown allows multiple selections Status : failed"}
+{"level":"info","message":"Test Case Started : Standard multi-select supports Ctrl / Cmd selection"}
+{"level":"info","message":"Test Case Completed : Standard multi-select supports Ctrl / Cmd selection Status : failed"}
+{"level":"info","message":"Test Case Started : All dropdowns are clickable and usable without errors"}
+{"level":"info","message":"Test Case Completed : All dropdowns are clickable and usable without errors Status : failed"}
+{"level":"info","message":"Test Case Started : getUsers"}
+{"level":"info","message":"Test Case Started : Verify Page Accessibility"}
+{"level":"info","message":"Test Case Completed : getUsers Status : failed"}
+{"level":"info","message":"Test Case Started : postUsers"}
+{"level":"info","message":"Test Case Completed : postUsers Status : failed"}
+{"level":"info","message":"Test Case Completed : Verify Page Accessibility Status : failed"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Elements Page."}
+{"level":"info","message":"Test Case Started : Verify Alerts, Frame & Windows Page"}
+{"level":"info","message":"Test Case Completed : Verify Elements Page. Status : failed"}
+{"level":"info","message":"Test Case Completed : Verify Alerts, Frame & Windows Page Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Elements Page"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Login Page."}
+{"level":"info","message":"Test Case Completed : Verify Elements Page Status : failed"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Login Page. Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Interactions Page"}
+{"level":"info","message":"Test Case Started : Verify Book Store Login"}
+{"level":"info","message":"Test Case Completed : Verify Interactions Page Status : failed"}
+{"level":"info","message":"Test Case Completed : Verify Book Store Login Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : Verify the text contents of PDF file."}
+{"level":"info","message":"Test Case Completed : Verify the text contents of PDF file. Status : failed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Widgets Page"}
+{"level":"info","message":"Test Case Completed : Verify Widgets Page Status : failed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Started : Verify Elements Page."}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Completed : Verify Elements Page. Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Page Accessibility"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
+{"level":"info","message":"Test Case Started : getUsers"}
+{"level":"info","message":"Test Case Completed : getUsers Status : failed"}
+{"level":"info","message":"Test Case Started : postUsers"}
+{"level":"info","message":"Test Case Completed : postUsers Status : failed"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Elements Page."}
+{"level":"info","message":"Test Case Completed : Verify Elements Page. Status : passed"}
+{"level":"info","message":"Test Case Completed : Verify Page Accessibility Status : passed"}
+{"level":"info","message":"Test Case Started : Verify Elements Page"}
+{"level":"info","message":"Test Case Started : Verify Alerts, Frame & Windows Page"}
+{"level":"info","message":"Test Case Completed : Verify Alerts, Frame & Windows Page Status : passed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Login Page."}
+{"level":"info","message":"Test Case Completed : Verify Elements Page Status : passed"}
+{"level":"info","message":"Test Case Started : Verify Interactions Page"}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Login Page. Status : passed"}
+{"level":"info","message":"Test Case Started : Verify Book Store Login"}
+{"level":"info","message":"Executing Step : Navigate to Application"}
+{"level":"info","message":"Executing Step : Click on Book Store Application Icon"}
+{"level":"info","message":"Executing Step : Click on Login button in Main page"}
+{"level":"info","message":"Executing Step : Login to Book Store application"}
+{"level":"info","message":"Executing Step : Verify User is logged in and navigated to Profile page"}
+{"level":"info","message":"Test Case Completed : Verify Book Store Login Status : passed"}
+{"level":"info","message":"Test Case Started : Verify the text contents of PDF file."}
+{"level":"info","message":"Test Case Completed : Verify Interactions Page Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : Verify the text contents of PDF file. Status : passed"}
+{"level":"info","message":"Test Case Started : Verify Widgets Page"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : Verify Widgets Page Status : passed"}
+{"level":"info","message":"Test Case Started : Verify Elements Page."}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : Verify Elements Page. Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Page Accessibility"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : Verify Page Accessibility Status : interrupted"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : interrupted"}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : failed"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : timedOut"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : timedOut"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : interrupted"}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"info","message":"Test Case Started : getUsers"}
+{"level":"info","message":"Test Case Started : Verify Page Accessibility"}
+{"level":"info","message":"Test Case Completed : Verify Page Accessibility Status : failed"}
+{"level":"info","message":"Test Case Completed : getUsers Status : failed"}
+{"level":"info","message":"Test Case Started : Connect to Postgres DB"}
+{"level":"info","message":"Test Case Started : postUsers"}
+{"level":"info","message":"Test Case Completed : Connect to Postgres DB Status : failed"}
+{"level":"info","message":"Test Case Completed : postUsers Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Elements Page."}
+{"level":"info","message":"Test Case Completed : Verify Elements Page. Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Alerts, Frame & Windows Page"}
+{"level":"info","message":"Test Case Completed : Verify Alerts, Frame & Windows Page Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Elements Page"}
+{"level":"info","message":"Test Case Completed : Verify Elements Page Status : failed"}
+{"level":"info","message":"Test Case Started : Generate and verify HAR file for Login Page."}
+{"level":"info","message":"Test Case Completed : Generate and verify HAR file for Login Page. Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Interactions Page"}
+{"level":"info","message":"Test Case Completed : Verify Interactions Page Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Book Store Login"}
+{"level":"info","message":"Test Case Completed : Verify Book Store Login Status : failed"}
+{"level":"info","message":"Test Case Started : Verify the text contents of PDF file."}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : Verify the text contents of PDF file. Status : failed"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Widgets Page"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : Verify Widgets Page Status : failed"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : Verify Elements Page."}
+{"level":"info","message":"Test Case Completed : Verify Elements Page. Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : timedOut"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : interrupted"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : failed"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : interrupted"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : interrupted"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"error","message":"Error: No tests found.\nMake sure that arguments are regular expressions matching test files.\nYou may need to escape symbols like \"$\" or \"*\" and quote the arguments."}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : timedOut"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : timedOut"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : timedOut"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : timedOut"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : timedOut"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : timedOut"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : timedOut"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : passed"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : timedOut"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : passed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : passed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : timedOut"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : passed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
+{"level":"info","message":"Test Case Started : TC01 - Placeholder should be visible before selection"}
+{"level":"info","message":"Test Case Completed : TC01 - Placeholder should be visible before selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC02 - User can select option from Select Value dropdown"}
+{"level":"info","message":"Test Case Completed : TC02 - User can select option from Select Value dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC03 - User can select option from Select One dropdown"}
+{"level":"info","message":"Test Case Completed : TC03 - User can select option from Select One dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC04 - Old Style Select works as native dropdown"}
+{"level":"info","message":"Test Case Completed : TC04 - Old Style Select works as native dropdown Status : failed"}
+{"level":"info","message":"Test Case Started : TC05 - Multi-select dropdown allows multiple selection"}
+{"level":"info","message":"Test Case Completed : TC05 - Multi-select dropdown allows multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC06 - Standard multi-select supports multiple selection"}
+{"level":"info","message":"Test Case Completed : TC06 - Standard multi-select supports multiple selection Status : failed"}
+{"level":"info","message":"Test Case Started : TC07 - All dropdowns are clickable and usable"}
+{"level":"info","message":"Test Case Completed : TC07 - All dropdowns are clickable and usable Status : failed"}
