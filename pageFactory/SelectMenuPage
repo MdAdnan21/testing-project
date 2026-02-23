@@ -1,0 +1,43 @@
+// import { Page } from '@playwright/test';
+// // import { WebActions } from '../utils/WebActions';
+
+// export class SelectMenuPage {
+//     readonly page: Page;
+  
+//     constructor(page: Page) {
+//       this.page = page;
+//     }
+  
+//     url = 'https://demoqa.com/select-menu';
+  
+//     async navigate() {
+//       await this.page.goto(this.url);
+//       await this.page.waitForLoadState('domcontentloaded');
+     
+//      }
+//     }
+  
+import { Page, Locator } from '@playwright/test';
+
+export class SelectMenuPage {
+  readonly page: Page;
+  readonly withOptGroup: Locator;
+
+  constructor(page: Page) {
+    this.page = page;
+
+    // correct locator initialization
+    this.withOptGroup = this.page.locator('#withOptGroup');
+  }
+
+  url = 'https://demoqa.com/select-menu';
+
+  async navigate() {
+    await this.page.goto(this.url);
+    await this.page.waitForLoadState('domcontentloaded');
+  }
+
+  async waitForSelectMenuToLoad() {
+    await this.withOptGroup.waitFor({ state: 'visible' });
+  }
+}
